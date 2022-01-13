@@ -1,4 +1,4 @@
-pipeline{
+/* pipeline{
 
 agent any
 
@@ -72,4 +72,4 @@ post{
 }
 
 
-}//Pipeline closing
+}//Pipeline closing */
